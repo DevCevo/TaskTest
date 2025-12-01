@@ -9,11 +9,14 @@ The application focuses on scalability, maintainability, and performance optimiz
 ## Security & Resilience
 
 JWT Authentication: Secure access control using Bearer tokens, protecting sensitive endpoints (POST, PUT, DELETE).
+
 Global Exception Handling: A centralized custom Middleware catches all unhandled exceptions, ensuring the API always returns structured, secure, and user-friendly error responses (preventing stack trace leaks).
 
 ## Performance & Optimization
 Optimized JSON Serialization: Configured System.Text.Json to automatically omit null values (e.g., InStock when out of stock). This reduces payload size and bandwidth usage significantly.
+
 Bulk Operations: Implemented /bulk endpoints to handle high-volume data insertion efficiently.
+
 In-Memory Database: Utilizes EF Core In-Memory provider for rapid prototyping and zero-dependency testing (easily swappable for SQL Server).
 
 ## Architecture
@@ -65,12 +68,12 @@ cd TaskTest
 dotnet run
 
 
-## Access Swagger UI:
+## Access Swagger UI
 Open your browser to https://localhost:<PORT>/swagger/index.html 
 
  
 
-## To seed this data:
+## To seed this data
 Authenticate using the steps above.
 
 Open the DummyData.json file and copy its content.
