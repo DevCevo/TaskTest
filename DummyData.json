@@ -1,0 +1,302 @@
+[
+    {
+        "name": "High-Performance NVMe SSD Drive 1TB",
+        "category": "Storage",
+        "price": 125.00,
+        "stockQuantity": 15
+    },
+    {
+        "name": "Ergonomic Mesh Office Chair",
+        "category": "Furniture",
+        "price": 349.99,
+        "stockQuantity": 5
+    },
+    {
+        "name": "27-inch 4K Ultra HD Monitor",
+        "category": "Electronics",
+        "price": 699.99,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Fast Wireless Charging Pad",
+        "category": "Accessories",
+        "price": 24.50,
+        "stockQuantity": 120
+    },
+    {
+        "name": "Black Sport Smartwatch",
+        "category": "Wearable Tech",
+        "price": 159.00,
+        "stockQuantity": 45
+    },
+    {
+        "name": "Multi-Port USB-C Hub",
+        "category": "Accessories",
+        "price": 39.99,
+        "stockQuantity": 70
+    },
+    {
+        "name": "Premium Leather Notebook A5",
+        "category": "Stationery",
+        "price": 18.00,
+        "stockQuantity": 300
+    },
+    {
+        "name": "Mechanical Gaming Keyboard",
+        "category": "Electronics",
+        "price": 129.99,
+        "stockQuantity": 10
+    },
+    {
+        "name": "Solid Oak Wood Desk",
+        "category": "Furniture",
+        "price": 550.00,
+        "stockQuantity": 3
+    },
+    {
+        "name": "10ft Gold Plated HDMI Cable",
+        "category": "Accessories",
+        "price": 12.50,
+        "stockQuantity": 0
+    },
+    {
+        "name": "20000mAh Power Bank",
+        "category": "Accessories",
+        "price": 45.00,
+        "stockQuantity": 90
+    },
+    {
+        "name": "Vegan Leather Laptop Sleeve",
+        "category": "Accessories",
+        "price": 32.00,
+        "stockQuantity": 25
+    },
+    {
+        "name": "Metallic Pen Set (3 Pack)",
+        "category": "Stationery",
+        "price": 9.99,
+        "stockQuantity": 150
+    },
+    {
+        "name": "Ultra-Light Gaming Mouse",
+        "category": "Electronics",
+        "price": 59.99,
+        "stockQuantity": 60
+    },
+    {
+        "name": "2TB External Hard Drive",
+        "category": "Storage",
+        "price": 79.99,
+        "stockQuantity": 18
+    },
+    {
+        "name": "Adjustable Bookcase (White)",
+        "category": "Furniture",
+        "price": 199.00,
+        "stockQuantity": 1
+    },
+    {
+        "name": "Noise Cancelling Bluetooth Headphones",
+        "category": "Electronics",
+        "price": 249.00,
+        "stockQuantity": 35
+    },
+    {
+        "name": "Professional Drawing Tablet",
+        "category": "Electronics",
+        "price": 350.00,
+        "stockQuantity": 8
+    },
+    {
+        "name": "Colorful Sticky Notes Set",
+        "category": "Stationery",
+        "price": 4.50,
+        "stockQuantity": 0
+    },
+    {
+        "name": "Modular L-Shaped Desk",
+        "category": "Furniture",
+        "price": 780.00,
+        "stockQuantity": 2
+    },
+    {
+        "name": "Metal Phone Stand",
+        "category": "Accessories",
+        "price": 15.00,
+        "stockQuantity": 200
+    },
+    {
+        "name": "128GB High-Speed MicroSD Card",
+        "category": "Storage",
+        "price": 45.00,
+        "stockQuantity": 65
+    },
+    {
+        "name": "6-inch E-Reader",
+        "category": "Electronics",
+        "price": 119.99,
+        "stockQuantity": 18
+    },
+    {
+        "name": "Glass Top Side Table",
+        "category": "Furniture",
+        "price": 85.00,
+        "stockQuantity": 4
+    },
+    {
+        "name": "Artisan Coffee Beans (1lb)",
+        "category": "Food & Beverage",
+        "price": 25.00,
+        "stockQuantity": 100
+    },
+    {
+        "name": "Fitness Tracker Smart Band",
+        "category": "Wearable Tech",
+        "price": 49.99,
+        "stockQuantity": 55
+    },
+    {
+        "name": "Portable Bluetooth Speaker (Waterproof)",
+        "category": "Electronics",
+        "price": 65.00,
+        "stockQuantity": 22
+    },
+    {
+        "name": "Magnetic Cable Organizer (5 Pack)",
+        "category": "Accessories",
+        "price": 14.99,
+        "stockQuantity": 180
+    },
+    {
+        "name": "All-in-One Wireless Printer",
+        "category": "Electronics",
+        "price": 199.00,
+        "stockQuantity": 9
+    },
+    {
+        "name": "Luxury Fountain Pen & Ink Set",
+        "category": "Stationery",
+        "price": 55.00,
+        "stockQuantity": 75
+    },
+    {
+        "name": "Foldable Laptop Stand",
+        "category": "Furniture",
+        "price": 28.50,
+        "stockQuantity": 14
+    },
+    {
+        "name": "256GB USB Flash Drive",
+        "category": "Storage",
+        "price": 40.00,
+        "stockQuantity": 110
+    },
+    {
+        "name": "Polarized Sunglasses (UV Protection)",
+        "category": "Accessories",
+        "price": 55.00,
+        "stockQuantity": 0
+    },
+    {
+        "name": "1080p HD Webcam",
+        "category": "Electronics",
+        "price": 45.00,
+        "stockQuantity": 40
+    },
+    {
+        "name": "Rechargeable AA Batteries (4 Pack)",
+        "category": "Accessories",
+        "price": 19.99,
+        "stockQuantity": 250
+    },
+    {
+        "name": "Virtual Reality Headset",
+        "category": "Wearable Tech",
+        "price": 499.00,
+        "stockQuantity": 5
+    },
+    {
+        "name": "Minimalist Wall Shelf",
+        "category": "Furniture",
+        "price": 35.00,
+        "stockQuantity": 18
+    },
+    {
+        "name": "Travel Backpack Organizer",
+        "category": "Accessories",
+        "price": 16.50,
+        "stockQuantity": 0
+    },
+    {
+        "name": "High-Speed Wi-Fi 6 Router",
+        "category": "Electronics",
+        "price": 149.00,
+        "stockQuantity": 30
+    },
+    {
+        "name": "Erasable Gel Pen Set",
+        "category": "Stationery",
+        "price": 8.00,
+        "stockQuantity": 160
+    },
+    {
+        "name": "Stainless Steel Thermal Mug",
+        "category": "Home Goods",
+        "price": 25.00,
+        "stockQuantity": 220
+    },
+    {
+        "name": "Portable Mini Projector",
+        "category": "Electronics",
+        "price": 220.00,
+        "stockQuantity": 7
+    },
+    {
+        "name": "Coloring Pencils (Set of 36)",
+        "category": "Stationery",
+        "price": 10.99,
+        "stockQuantity": 130
+    },
+    {
+        "name": "Smart Home Security Camera",
+        "category": "Electronics",
+        "price": 69.99,
+        "stockQuantity": 40
+    },
+    {
+        "name": "Premium Skincare Gift Set",
+        "category": "Cosmetics",
+        "price": 45.00,
+        "stockQuantity": 95
+    },
+    {
+        "name": "Wireless Gaming Headset (RGB)",
+        "category": "Electronics",
+        "price": 110.00,
+        "stockQuantity": 15
+    },
+    {
+        "name": "Wooden Cutting Board Set",
+        "category": "Home Goods",
+        "price": 29.99,
+        "stockQuantity": 0
+    },
+    {
+        "name": "65W USB-C Fast Charger",
+        "category": "Accessories",
+        "price": 35.00,
+        "stockQuantity": 85
+    },
+    {
+        "name": "Digital Alarm Clock (LED)",
+        "category": "Electronics",
+        "price": 22.00,
+        "stockQuantity": 60
+    },
+    {
+        "name": "High Gain Wi-Fi Adapter",
+        "category": "Electronics",
+        "price": 18.00,
+        "stockQuantity": 75
+    }
+]
